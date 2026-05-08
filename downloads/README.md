@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [100MB](./100MB)
+- [Furniture-Pack](./Furniture-Pack)
 - [N9TT9sWU1wE](./N9TT9sWU1wE)
 - [SweetHome3D-7.5-windows](./SweetHome3D-7.5-windows)
 - [download](./download)
