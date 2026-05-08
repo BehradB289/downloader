@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `download` |
-| **URL** | https://sourceforge.net/projects/sweethome3d/files/SweetHome3D-models/3DModels-1.2.1/3DModels-Trees-1.2.1.zip/download |
-| **Date** | 2026-05-08 16:31:41 UTC |
+| **URL** | https://sourceforge.net/projects/sweethome3d/files/SweetHome3D-models/3DModels-1.9.3/3DModels-Contributions-1.9.3.zip/download |
+| **Date** | 2026-05-08 16:33:02 UTC |
 | **Status** | **FAILED** |
 
 ---
