@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `download` |
-| **URL** | https://sourceforge.net/projects/sweethome3d/files/SweetHome3D-models/3DModels-1.9.3/3DModels-Scopia-1.9.3.zip/download |
-| **Date** | 2026-05-08 15:39:50 UTC |
+| **URL** | https://sourceforge.net/projects/sweethome3d/files/SweetHome3D-models/3DModels-1.9.3/3DModels-BlendSwap-CC-0-1.9.3.zip/download |
+| **Date** | 2026-05-08 15:40:12 UTC |
 | **Status** | **FAILED** |
 
 ---
